@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 免费SS/SSR节点账号分享
 
-You can use the [editor on GitHub](https://github.com/edi456th/edi456th.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ssr://NTQuMTgwLjE0Ny4xMzQ6NDc2NjU6b3JpZ2luOmNoYWNoYTIwOnBsYWluOllYQmxlSFF5TURFNU1EQXgvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ssr://MTU3LjIzMC45Mi43OTo5MDMxOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpORE01TkRNMk5UWTEvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
 
-### Markdown
+ssr://dHcxLm5leGl0YWxseS5jbzo0NDI6YXV0aF9hZXMxMjhfc2hhMTphZXMtMTI4LWN0cjpwbGFpbjpjbm93VkZOUlVpRkpLaVpqUkNNM0pRLz9vYmZzcGFyYW09JnJlbWFya3M9Wm5KbFpYTnpjaTVsY0dsNmVTNWpiMjAmZ3JvdXA9TXpJMQ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ssr://NDUuNzYuMTYyLjE0OjExMTExOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpZV0pqTVRJek5EVTIvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
 
-```markdown
-Syntax highlighted code block
+ssr://MTAzLjEwMi4xNjAuMjUyOjEyMzQ1Om9yaWdpbjpyYzQtbWQ1OnBsYWluOk1USXpORFUvP29iZnNwYXJhbT1UbTl1WlEmcHJvdG9wYXJhbT1UbTl1WlEmcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edi456th/edi456th.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
