@@ -1,12 +1,13 @@
-## 免费SS/SSR节点账号分享
+# Thinkspace
 
-ssr://NTQuMTgwLjE0Ny4xMzQ6NDc2NjU6b3JpZ2luOmNoYWNoYTIwOnBsYWluOllYQmxlSFF5TURFNU1EQXgvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
+> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
 
-ssr://MTU3LjIzMC45Mi43OTo5MDMxOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpORE01TkRNMk5UWTEvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-2.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/thinkspace.svg?branch=master)
 
-ssr://dHcxLm5leGl0YWxseS5jbzo0NDI6YXV0aF9hZXMxMjhfc2hhMTphZXMtMTI4LWN0cjpwbGFpbjpjbm93VkZOUlVpRkpLaVpqUkNNM0pRLz9vYmZzcGFyYW09JnJlbWFya3M9Wm5KbFpYTnpjaTVsY0dsNmVTNWpiMjAmZ3JvdXA9TXpJMQ
+- **Demo:** https://heiswayi.github.io/thinkspace/
 
-ssr://NDUuNzYuMTYyLjE0OjExMTExOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpZV0pqTVRJek5EVTIvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
+![SCREENSHOT](https://i.imgur.com/1YS078k.png)
 
-ssr://MTAzLjEwMi4xNjAuMjUyOjEyMzQ1Om9yaWdpbjpyYzQtbWQ1OnBsYWluOk1USXpORFUvP29iZnNwYXJhbT1UbTl1WlEmcHJvdG9wYXJhbT1UbTl1WlEmcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx
+## License
 
+[MIT](LICENSE.md)
