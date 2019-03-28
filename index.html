@@ -1,27 +1,111 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>免费SSR节点分享</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+		body{
+			background-color: #ccc;
+		}
+		td{
+			padding: 0 10px;
+			width: 40px;
+			height: 30px;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+		p{
+			font-size:0px;
+		}
 
-{% include intro.html %}
+	.wrapper {border:1px solid #00F; height:100%; width:100%;word-wrap:break-word}
+  
+   
+   .copy-button { /* 按钮美化 */
+	width: 100%; /* 宽度 */
+	height: 40px; /* 高度 */
+	border-width: 0px; /* 边框宽度 */
+	border-radius: 3px; /* 边框半径 */
+	background: #1a7dc0; /* 背景颜色 */
+	cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+	outline: none; /* 不显示轮廓线 */
+	font-family: Microsoft YaHei; /* 设置字体 */
+	color: white; /* 字体颜色 */
+	font-size: 15px; /* 字体大小 */
+}
+ .msg-p { /* 按钮美化 */
+	width: 100%; /* 宽度 */
+/*	height: 40px;  高度 */
+	border-width: 0px; /* 边框宽度 */
+	border-radius: 3px; /* 边框半径 */
+	/*//background: #1E90FF;  背景颜色 */
+	cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+	outline: none; /* 不显示轮廓线 */
+	font-family: Microsoft YaHei; /* 设置字体 */
+	color: red; /* 字体颜色 */
+	font-size: 15px; /* 字体大小 */
+}
+	</style>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137031005-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<section class="post-list">
-  <div class="container">
-    {% for post in site.posts %}
-      {% unless post.next %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% endif %}
-      {% endunless %}
-      <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
-      </article>
-    {% endfor %}
-  </div>
+  gtag('config', 'UA-137031005-1');
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-</section>
+</head>
+<body>
+
+<!-- 1. Define some markup -->
+
+<table align = "center" style="border-collapse:collapse;table-layout:fixed;"  width="100%" border="1">
+		<tbody>
+			<tr>
+				<th><img src="./logo.png" /></th>
+			</tr>
+			<tr>
+				<th><button class="copy-button" data-clipboard-action="copy" data-clipboard-target="div">一 键 复 制</button><hr></th>
+			</tr>
+			<tr>
+				<th><marquee direction="left" class="msg-p">3月25日更新</marquee><hr></th>
+			</tr>
+			<tr>
+				<th><div class="wrapper">ssr://NTQuMTgwLjE0Ny4xMzQ6NDc2NjU6b3JpZ2luOmNoYWNoYTIwOnBsYWluOllYQmxlSFF5TURFNU1EQXgvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkxssr://MTU3LjIzMC45Mi43OTo5MDMxOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjpwbGFpbjpORE01TkRNMk5UWTEvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkxssr://dHcxLm5leGl0YWxseS5jbzo0NDI6YXV0aF9hZXMxMjhfc2hhMTphZXMtMTI4LWN0cjpwbGFpbjpjbm93VkZOUlVpRkpLaVpqUkNNM0pRLz9vYmZzcGFyYW09JnJlbWFya3M9Wm5KbFpYTnpjaTVsY0dsNmVTNWpiMjAmZ3JvdXA9TXpJMQssr://NDUuNzYuMTYyLjE0OjExMTExOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpZV0pqTVRJek5EVTIvP29iZnNwYXJhbT0mcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkxssr://MTAzLjEwMi4xNjAuMjUyOjEyMzQ1Om9yaWdpbjpyYzQtbWQ1OnBsYWluOk1USXpORFUvP29iZnNwYXJhbT1UbTl1WlEmcHJvdG9wYXJhbT1UbTl1WlEmcmVtYXJrcz1abkpsWlhOemNpNWxjR2w2ZVM1amIyMCZncm91cD1Nekkx</div><hr></th>
+			</tr>
+			
+			
+		</tbody>
+</table>
+
+    
+	
+    
+
+
+
+
+    <!-- 2. Include library -->
+    <script src="./clipboard.min.js"></script>
+
+    <!-- 3. Instantiate clipboard -->
+    <script>
+    var clipboard = new ClipboardJS('.copy-button');
+
+    clipboard.on('success', function(e) {
+        console.log(e);
+    });
+
+    clipboard.on('error', function(e) {
+        console.log(e);
+    });
+    </script>
+</body>
+
+</html>
